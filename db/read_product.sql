@@ -1,2 +1,2 @@
 select * from products
-where ProductId = $1
+where id = $1
